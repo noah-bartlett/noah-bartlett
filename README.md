@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noah-bartlett
-- 👀 I’m interested in Python!
-- 🌱 I’m currently learning (python)
-- 💞️ I’m looking to collaborate on game projects, also looking for a job in the industry!
+- 👀 I’m interested in Linux
+- 🌱 I’m currently learning that i think i need a flip phone to escape the technological hell
+- 💞️ I’m looking to collaborate on my code is bad and i do feel bad
 - 📫 How to reach me: noahbartlett21@gmail.com
 
 <!---
